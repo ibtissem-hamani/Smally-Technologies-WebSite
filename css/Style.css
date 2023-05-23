@@ -132,7 +132,7 @@ a{
    margin-bottom: 5vh; }
                
 .Service{
-   background: url(../Pictures/bg-2.png);
+   background: url(/Pictures/bg-2.png);
    min-height: 100vh;
    background-size: cover;
    background-position: center;
