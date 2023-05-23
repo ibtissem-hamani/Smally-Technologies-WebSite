@@ -132,9 +132,9 @@ a{
    margin-bottom: 5vh; }
                
 .Service{
-   background-size: 100% 100%;
    background: url(../Pictures/bg-2.webp);
    min-height: 100vh;
+    background-size: 100% 100%;
    background-position: center;
    right: 0;
    left: 0;
